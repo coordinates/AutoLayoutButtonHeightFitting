@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8DE1CCB-A3E0-4BF0-9AF5-6D8F8976D659</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayoutButtonHeightFitting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F3B12AE-2ED4-47EE-9978-7AB87D7A7DAB</key>
+		<string>https://github.com/coordinates/AutoLayoutButtonHeightFitting.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoLayoutButtonHeightFitting/AutoLayoutButtonHeightFitting.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F3B12AE-2ED4-47EE-9978-7AB87D7A7DAB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/coordinates/AutoLayoutButtonHeightFitting.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F3B12AE-2ED4-47EE-9978-7AB87D7A7DAB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F3B12AE-2ED4-47EE-9978-7AB87D7A7DAB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoLayoutButtonHeightFitting</string>
+		</dict>
+	</array>
+</dict>
+</plist>
